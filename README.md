@@ -106,5 +106,3 @@ Open Telegram, find your bot, and start chatting 🚀
 ## 📜 License
 
 This project is provided for educational purposes.
-
-```
